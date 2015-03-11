@@ -1,0 +1,3 @@
+[submodule "elixir/kronos"]
+	path = elixir/kronos
+	url = https://github.com/bluefireos/kronos.git
